@@ -1,0 +1,23 @@
+DIFERENÇA PROGRAMAÇÃO ORIENTADA A OBJETO E PROGRAMACO PROCEDURAL
+
+	- Programação orientada a objeto é a forma mais comum de ser utilizado hoje, pois facilita a organização do projeto. Ele se organiza em torno de "objetos" e cada objeto tem "atributos" e "metodos", assim ajuda a modular o codigo tornando mais facil de entender e no que focar em como os objetos interage entre si.
+	- Ja a programacao procedural, o foco é mais em funções, assim ele organiza o códigos em blocos colocando uma série de elementos dentro do mesmo bloco, tornando o código mais interligado e assim mais dificil de leitura e organização para enteder o que esta sendo escrito.
+
+ EXERCICIO PORTUGOL - HORA DE ACORDAR
+
+	INICIO
+		1- O alarme toca
+		2 - Despertar e desligar o alarme
+		3 - Se o alarme não tocar
+			1. Continuar dormindo
+			2. Despertar e correr para começar o dia
+			3. Configurar novamente o alarme
+		4 - Levantar da cama
+		5 - Ir ao banheiro
+		6 - Escovar os dentes
+		7 - Preparar e comer o café da manhã
+		8 - Vestir-se
+		9 - Sair de casa
+	FIM
+
+			
